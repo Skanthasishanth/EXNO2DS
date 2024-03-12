@@ -165,4 +165,4 @@ sns.pairplot(dt)
 
 
 # RESULT
-Thus, Data Analyzing of the given dataset was executed successfully.
+Thus, Data Analysis for the given dataset was executed successfully.
